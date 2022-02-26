@@ -28,6 +28,11 @@ hs_err_pid*
 *.iml
 *.properties
 
+# IntellijIdea files
+*.iml
+.idea
+out
+
 #helpPackages
-src/basicAlgorithm/siriusExam
-src/feodor
+src/basicAlgorithm/siriusExam/
+src/feodor/
